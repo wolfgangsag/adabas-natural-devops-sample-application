@@ -67,7 +67,7 @@ IF *DATA > 0
   RELEASE STACK
 /*
 ELSE
-  MOVE 'Bitte enter Id to show cruise data' TO #INFO-MESSAGE
+  MOVE 'Please a enter Id to show cruise data' TO #INFO-MESSAGE
 END-IF
 /*
 ON ERROR
